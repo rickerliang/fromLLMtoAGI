@@ -3,7 +3,7 @@
 - [What In-Context Learning "Learns" In-Context: DisentanglingTask Recognition and Task Learning](https://arxiv.org/abs/2305.09731), Task recognition (TR) captures the extent to which LLMs can recognize a task through demonstrations -- even without ground-truth labels -- and apply their pre-trained priors, whereas task learning (TL) is the ability to capture new input-label mappings unseen in pre-training.
 ### a recall, query and inference?
 - [How does in-context learning work? A framework for understanding the differences from traditional supervised learning](https://ai.stanford.edu/blog/understanding-incontext/)
-### or a true learning algorithm
+### or a true learning algorithm?
 - [What learning algorithm is in-context learning? Investigations with linear models](https://arxiv.org/abs/2211.15661), We investigate the hypothesis that transformer-based in-context learners implement standard learning algorithms implicitly, by encoding smaller models in their activations, and updating these implicit models as new examples appear in the context
 - [Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers](https://arxiv.org/abs/2212.10559), Transformer attention has a dual form of gradient descent. 
 ## Prompt, Agent, System
