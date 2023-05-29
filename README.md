@@ -22,4 +22,8 @@
 - [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314), QLORA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) Paged Optimizers to manage memory spikes. 
 ## Implementation
 - [LangChain](https://github.com/hwchase17/langchain), in-context learning, prompt template, chain of thought, toolformer, ReAct, ToT
-- 
+- [LangFlow](https://github.com/logspace-ai/langflow)
+- [MOSS](https://github.com/OpenLMLab/MOSS), An open-source tool-augmented conversational language model from Fudan University
+- [LlaMA](https://github.com/facebookresearch/llama)
+## Prompt Engineer
+- [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
