@@ -27,5 +27,6 @@
 - [LangFlow](https://github.com/logspace-ai/langflow)
 - [MOSS](https://github.com/OpenLMLab/MOSS), An open-source tool-augmented conversational language model from Fudan University
 - [LlaMA](https://github.com/facebookresearch/llama)
+- [lit-LlaMA](https://github.com/Lightning-AI/lit-llama)
 ## Prompt Engineer
 - [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
