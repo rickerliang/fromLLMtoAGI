@@ -33,3 +33,4 @@
 - [lit-LlaMA](https://github.com/Lightning-AI/lit-llama)
 ## Prompt Engineer
 - [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
+- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
