@@ -22,7 +22,7 @@
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)🚀
 - [Large Language Model Guided Tree-of-Thought](https://arxiv.org/abs/2305.08291)
 - [Introspective Tips: Large Language Model for In-Context Decision Making](https://arxiv.org/abs/2305.11598)
-## AGI, Usage
+## AGI, Application
 - [Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory](https://github.com/OpenGVLab/GITM)🚀
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)🚀
 - [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126), a dispatcher, a tool maker and a tool user
