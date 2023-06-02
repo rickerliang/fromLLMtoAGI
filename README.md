@@ -18,7 +18,9 @@
 - [Reflexion: an autonomous agent with dynamic memory and self-reflection](https://arxiv.org/abs/2303.11366), an approach that endows an agent with dynamic memory and self-reflection capabilities to enhance its existing reasoning trace and task-specific action choice abilities.
 - [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/abs/2304.09797), a new prompting method, named Progressive-Hint Prompting (PHP), that enables automatic multiple interactions between users and LLMs by using previously generated answers as hints to progressively guide toward the correct answers.
 - [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://arxiv.org/abs/2305.03495), textual gradient descent
-- [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128),  SELF-DEBUGGING with Simple Feedback, with Unit Tests and via Code Explanation.
+- [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128), SELF-DEBUGGING with Simple Feedback, with Unit Tests and via Code Explanation.
+- [Natural Language to Code Translation with Execution](https://arxiv.org/abs/2204.11454), we introduce execution result--based minimum Bayes risk decoding (MBR-EXEC) for program selection, Bayes risk of a
+program is defined by the sum of the loss between itself and other examples.
 - [LETI: Learning to Generate from Textual Interactions](https://arxiv.org/abs/2305.10314), LMs' potential to learn from textual interactions (LeTI) that not only check their correctness with binary labels, but also pinpoint and explain errors in their outputs through textual feedback. 
 - [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/abs/2305.11738), introduce a framework called CRITIC that allows LLMs, which are essentially "black boxes" to validate and progressively amend their own outputs in a manner similar to human interaction with tools.
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)🚀
