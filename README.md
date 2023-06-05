@@ -2,6 +2,7 @@
 ## Leaderboard
 - [Chatbot Arena Leaderboard](https://lmsys.org/blog/)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- [Chain-of-Thought Hub: Measuring LLMs' Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub), Existing results strongly suggest that if RLHF is done right on LLaMA, it may be close to ChatGPT-3.5
 ## Transformer, In-context Learning
 - [What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning](https://arxiv.org/abs/2305.09731), Task recognition (TR) captures the extent to which LLMs can recognize a task through demonstrations -- even without ground-truth labels -- and apply their pre-trained priors, whereas task learning (TL) is the ability to capture new input-label mappings unseen in pre-training.
 - [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654), We propose two hypotheses. First, Transformers solve compositional tasks by reducing multi-step compositional reasoning into linearized path matching. Second, due to error propagation, Transformers may have inherent limitations on solving high-complexity compositional tasks that exhibit novel patterns. 🚀
