@@ -35,6 +35,7 @@ program is defined by the sum of the loss between itself and other examples.
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)🚀
 - [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126), a dispatcher, a tool maker and a tool user
 - [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334), GPT-4 SFT LlaMa, massive apis
+- [OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities](https://arxiv.org/abs/2305.16334),  The framework involves approximating different cognitive modules, including attention, memory, reasoning, learning, and corresponding scheduling and decision-making mechanisms.
 ## Language Model
 - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759), despite of the small size of the models, we still observe an emergence of reasoning capabilities, knowledge of general facts and ability to follow certain instructions.
 - [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314), QLORA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) Paged Optimizers to manage memory spikes. 
