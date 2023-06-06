@@ -48,6 +48,7 @@ program is defined by the sum of the loss between itself and other examples.
 - [LlaMA](https://github.com/facebookresearch/llama)
 - [lit-LlaMA](https://github.com/Lightning-AI/lit-llama)
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm), MLC LLM is a universal solution that allows any language models to be deployed natively on a diverse set of hardware backends and native applications, plus a productive framework for everyone to further optimize model performance for their own use cases.
+- [GPT4ALL](https://github.com/nomic-ai/gpt4all), Open-source assistant-style large language models that run locally on your CPU
 ## Prompt Engineer
 - [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
 - [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
