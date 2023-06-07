@@ -30,6 +30,8 @@ program is defined by the sum of the loss between itself and other examples.
 - [Introspective Tips: Large Language Model for In-Context Decision Making](https://arxiv.org/abs/2305.11598)
 - [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://arxiv.org/abs/2305.19234)🚀
 - [Deliberate then Generate: Enhanced Prompting Framework for Text Generation](https://arxiv.org/abs/2305.19835), the already [DOSOMETHING] is [INCORRECT CONTENT], Please detect the error type firstly, and provide the refined informal sentence then.
+- [Deductive Verification of Chain-of-Thought Reasoning](https://arxiv.org/abs/2306.03872), natural program format allows individual reasoning steps (an example in purple) and their corresponding minimal
+set of premises (an example in orange) to be easily extracted, natural Program-based deductive reasoning verification approach, we identify and eliminate reasoning chains that contain errors in reasoning and grounding.
 ## AGI, Application
 - [Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory](https://github.com/OpenGVLab/GITM)🚀
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)🚀
