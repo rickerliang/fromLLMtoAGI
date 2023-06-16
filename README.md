@@ -52,6 +52,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 ## Implementation
 - [LangChain](https://github.com/hwchase17/langchain), in-context learning, prompt template, chain of thought, toolformer, ReAct, ToT
 - [LangFlow](https://github.com/logspace-ai/langflow)
+- [Flowise](https://github.com/FlowiseAI/Flowise)
 - [MOSS](https://github.com/OpenLMLab/MOSS), An open-source tool-augmented conversational language model from Fudan University
 - [LlaMA](https://github.com/facebookresearch/llama)
 - [lit-LlaMA](https://github.com/Lightning-AI/lit-llama)
