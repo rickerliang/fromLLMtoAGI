@@ -49,19 +49,21 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759), despite of the small size of the models, we still observe an emergence of reasoning capabilities, knowledge of general facts and ability to follow certain instructions.
 - [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314), QLORA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) Paged Optimizers to manage memory spikes. 
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050), kpi vs okr
-## Implementation, Code Repo, Model Weights
+## Implementation, Code Repo
+### Flow
 - [LangChain](https://github.com/hwchase17/langchain), in-context learning, prompt template, chain of thought, toolformer, ReAct, ToT
 - [LangFlow](https://github.com/logspace-ai/langflow)
 - [Flowise](https://github.com/FlowiseAI/Flowise)
+- [Chat UI](https://github.com/huggingface/chat-ui/), A chat interface using open source models, eg OpenAssistant.
+### Model Weights
 - [MOSS](https://github.com/OpenLMLab/MOSS), An open-source tool-augmented conversational language model from Fudan University
 - [LlaMA](https://github.com/facebookresearch/llama)
 - [lit-LlaMA](https://github.com/Lightning-AI/lit-llama)
 - [OpenLlaMA](https://github.com/openlm-research/open_llama)
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm), MLC LLM is a universal solution that allows any language models to be deployed natively on a diverse set of hardware backends and native applications, plus a productive framework for everyone to further optimize model performance for their own use cases.
 - [GPT4ALL](https://github.com/nomic-ai/gpt4all), Open-source assistant-style large language models that run locally on your CPU.
-- [Chat UI](https://github.com/huggingface/chat-ui/), A chat interface using open source models, eg OpenAssistant.
 - [Falcon](https://huggingface.co/tiiuae/falcon-40b)
-## Prompt Engineer
+## Prompt Engineer, Guide
 - [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
 - [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
 - [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
