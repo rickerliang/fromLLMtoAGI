@@ -56,6 +56,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [MOSS](https://github.com/OpenLMLab/MOSS), An open-source tool-augmented conversational language model from Fudan University
 - [LlaMA](https://github.com/facebookresearch/llama)
 - [lit-LlaMA](https://github.com/Lightning-AI/lit-llama)
+- [OpenLlaMA](https://github.com/openlm-research/open_llama)
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm), MLC LLM is a universal solution that allows any language models to be deployed natively on a diverse set of hardware backends and native applications, plus a productive framework for everyone to further optimize model performance for their own use cases.
 - [GPT4ALL](https://github.com/nomic-ai/gpt4all), Open-source assistant-style large language models that run locally on your CPU.
 - [Chat UI](https://github.com/huggingface/chat-ui/), A chat interface using open source models, eg OpenAssistant.
