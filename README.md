@@ -49,7 +49,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759), despite of the small size of the models, we still observe an emergence of reasoning capabilities, knowledge of general facts and ability to follow certain instructions.
 - [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314), QLORA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) Paged Optimizers to manage memory spikes. 
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050), kpi vs okr
-## Implementation
+## Implementation, Code Repo, Model Weights
 - [LangChain](https://github.com/hwchase17/langchain), in-context learning, prompt template, chain of thought, toolformer, ReAct, ToT
 - [LangFlow](https://github.com/logspace-ai/langflow)
 - [Flowise](https://github.com/FlowiseAI/Flowise)
