@@ -36,6 +36,7 @@ program is defined by the sum of the loss between itself and other examples.
 set of premises (an example in orange) to be easily extracted, natural Program-based deductive reasoning verification approach, we identify and eliminate reasoning chains that contain errors in reasoning and grounding.🚀
 - [PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/abs/2306.04528), Given an LLM $f_{\theta}$ , a dataset D, and a clean prompt P, the objective of a prompt attack can be formulated as follows: $argmax_{\delta \in C}E_{(x;y) \in D}\mathcal{L}[f_{\theta}([P+\delta,x],y)]$, attack level: character, word, sentence, semantic.🚀
 - [Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting](https://arxiv.org/abs/2305.07004), XLT is a generic template prompt that stimulates cross-lingual and logical reasoning skills to enhance task performance across languages.
+- [Demystifying GPT Self-Repair for Code Generation](https://arxiv.org/abs//2306.09896),
 ## AGI, Application
 - [Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory](https://github.com/OpenGVLab/GITM)🚀
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)🚀
