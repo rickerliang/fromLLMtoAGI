@@ -56,6 +56,8 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [LangFlow](https://github.com/logspace-ai/langflow)
 - [Flowise](https://github.com/FlowiseAI/Flowise)
 - [Chat UI](https://github.com/huggingface/chat-ui/), A chat interface using open source models, eg OpenAssistant.
+###
+-[llama.cpp](https://github.com/ggerganov/llama.cpp)
 ### Model Weights
 - [MOSS](https://github.com/OpenLMLab/MOSS), An open-source tool-augmented conversational language model from Fudan University
 - [LlaMA](https://github.com/shawwn/llama-dl)
