@@ -70,6 +70,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [GPT4ALL](https://github.com/nomic-ai/gpt4all), Open-source assistant-style large language models that run locally on your CPU.
 - [Falcon](https://huggingface.co/tiiuae/falcon-40b)
 - [Robin](https://huggingface.co/OptimalScale/robin-65b-v2-delta)
+- [WizardLM](https://github.com/nlpxucan/WizardLM)
 ## Prompt Engineer, Guide
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
