@@ -76,6 +76,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [Falcon](https://huggingface.co/tiiuae/falcon-40b)
 - [Robin](https://huggingface.co/OptimalScale/robin-65b-v2-delta)
 - [WizardLM](https://github.com/nlpxucan/WizardLM)
+- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
 ## Prompt Engineer, Guide
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
