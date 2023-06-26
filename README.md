@@ -57,7 +57,14 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644), textbook quality training data
 ## Training Technique
 - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
+- [GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models](https://arxiv.org/abs/2306.13649)💡🚀
+  - $L_{GKD}(\theta):=$
+    - $(1-\lambda)E_{(x,y)\sim(X,Y)}[\mathcal{D}(p_T\parallel p^{\theta}_S(y|x)]+$
+    - $\lambda E_{x \sim X} \big[E_{y\sim ps(\cdot|x)}[\mathcal{D}(p_T\parallel p^{\theta}_S(y|x)]\big]$
+  - when approximating $P(\mathcal{C})$ using a parameterized distribution $Q_\theta(\mathcal{C})$, minimizing the reverse and forward KL under model under-specification results in mean and mode-seeking behavior
+  - Supervised FT; Supervised KD; On-policy KD
 ## Implementation, Code Repo
+
 ### Flow
 - [LangChain](https://github.com/hwchase17/langchain), in-context learning, prompt template, chain of thought, toolformer, ReAct, ToT
 - [LangFlow](https://github.com/logspace-ai/langflow)
