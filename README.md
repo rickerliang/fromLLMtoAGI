@@ -55,6 +55,8 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050), kpi vs okr
 - [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561), employ N different LLMs to get output candidates then pair all candidates and concatenate them with the input before feeding them to PAIRRANKER, rank all candidates and take the top K of them for generative fusion.
 - [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644), textbook quality training data
+## Training Technique
+- [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 ## Implementation, Code Repo
 ### Flow
 - [LangChain](https://github.com/hwchase17/langchain), in-context learning, prompt template, chain of thought, toolformer, ReAct, ToT
