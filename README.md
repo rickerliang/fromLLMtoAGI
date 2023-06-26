@@ -53,7 +53,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314), QLORA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) Paged Optimizers to manage memory spikes. 
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050), kpi vs okr
 - [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561), employ N different LLMs to get output candidates then pair all candidates and concatenate them with the input before feeding them to PAIRRANKER, rank all candidates and take the top K of them for generative fusion.
-- [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
+- [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644), textbook quality training data
 ## Implementation, Code Repo
 ### Flow
 - [LangChain](https://github.com/hwchase17/langchain), in-context learning, prompt template, chain of thought, toolformer, ReAct, ToT
