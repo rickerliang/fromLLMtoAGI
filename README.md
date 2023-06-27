@@ -62,7 +62,10 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
   - $L_{GKD}(\theta):=$
     - $(1-\lambda)E_{(x,y)\sim(X,Y)}[\mathcal{D}(p_T\parallel p^{\theta}_S(y|x)]+$
     - $\lambda E_{x \sim X} \big[E_{y\sim ps(\cdot|x)}[\mathcal{D}(p_T\parallel p^{\theta}_S(y|x)]\big]$
-  - when approximating $P(\mathcal{C})$ using a parameterized distribution $Q_\theta(\mathcal{C})$, minimizing the reverse and forward KL under model under-specification results in mean and mode-seeking behavior. 
+  - when approximating $P(\mathcal{C})$ using a parameterized distribution $Q_\theta(\mathcal{C})$, minimizing the reverse and forward KL under model under-specification results in mean and mode-seeking behavior.
+    - $\mathcal{D}_{KL}$
+    - $\mathcal{D}_{RKL}$
+    - $\mathcal{D}_{JSD[\beta]}$.
   - Supervised FT; Supervised KD; On-policy KD
 ## Implementation, Code Repo
 
