@@ -55,6 +55,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050), kpi vs okr
 - [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561), employ N different LLMs to get output candidates then pair all candidates and concatenate them with the input before feeding them to PAIRRANKER, rank all candidates and take the top K of them for generative fusion.
 - [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644), textbook quality training data
+- [Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651), Knowledge Probing via Negations: is->is not; Toxicity: F-bombing; Context (Long Range) Sensitivity: replacing the first two sentences with two random sentences from the corpus; Word Order: two random words are swapped in each sentence; Tokenization Sensitivity: randomly chop strings of raw input text.
 ## Training Technique
 - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 - [GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models](https://arxiv.org/abs/2306.13649)💡🚀
