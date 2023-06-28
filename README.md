@@ -38,6 +38,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting](https://arxiv.org/abs/2305.07004), XLT is a generic template prompt that stimulates cross-lingual and logical reasoning skills to enhance task performance across languages.
 - [Demystifying GPT Self-Repair for Code Generation](https://arxiv.org/abs//2306.09896),
 - [Language models are weak learners](https://arxiv.org/abs/2306.14101)💡, summaries of a collection of examples(hypothesis, prompt) + LLM = weak model(s), hierarchical agglomerative clustering, AdaBoost.
+- [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/abs/2306.14892)🚀🚀🚀
 ## AGI, Application
 - [Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory](https://github.com/OpenGVLab/GITM)🚀
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)🚀
