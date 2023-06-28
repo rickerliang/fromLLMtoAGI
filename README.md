@@ -12,7 +12,7 @@
 - or a true learning algorithm?🚀
   - [What learning algorithm is in-context learning? Investigations with linear models](https://arxiv.org/abs/2211.15661), transformer-based in-context learners implement standard learning algorithms implicitly, by encoding smaller models in their activations, and updating these implicit models as new examples appear in the context
   - [Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers](https://arxiv.org/abs/2212.10559), Transformer attention has a dual form of gradient descent.
-- [Understanding In-Context Learning via Supportive Pretraining Data](https://arxiv.org/abs/2306.15091)💡💡, (1) The supportive pretraining data to ICL do not have a higher domain relevance to downstream tasks. (2) The supportive pretraining data have a higher mass of rarely occurring, long-tail tokens. (3) The supportive pretraining data are challenging examples
+- [Understanding In-Context Learning via Supportive Pretraining Data](https://arxiv.org/abs/2306.15091)💡💡, we use the similarity between gradients $\nabla_\theta L_\theta^{PT}(w)$ and $\nabla_\theta L_\theta^{ICL}(x,y)$ iteratively to find supportive pretraining data. We then compare the supportive subset contrastively with random subsets of pretraining data and discover: (1) The supportive pretraining data to ICL do not have a higher domain relevance to downstream tasks. (2) The supportive pretraining data have a higher mass of rarely occurring, long-tail tokens. (3) The supportive pretraining data are challenging examples
 where the information gain from long-range
 context is below average, indicating learning to
 incorporate difficult long-range context encourages ICL.
