@@ -4,6 +4,11 @@
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Chain-of-Thought Hub: Measuring LLMs' Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub), Existing results strongly suggest that if RLHF is done right on LLaMA, it may be close to ChatGPT-3.5
 - [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
+## Dataset Investigate
+- [Beyond Scale: the Diversity Coefficient as a Data Quality Metric Demonstrates LLMs are Pre-trained on Formally Diverse Data](https://arxiv.org/abs/2306.13840)💡
+  - We compute the Task2Vec diversity coefficient as the expected cosine distance d between pairs of Task2Vec embeddings of batches $\hat{d}iv(D)=E_{B_1,B_2}d(\overrightarrow{f}_B1, \overrightarrow{f}_B2)$, where $\overrightarrow{f}_Bi$ is the Task2Vec embedding of a batch $B_i$ using the diagonal of the FIM matrix $\hat{B}_i$
+  - compute the FIM as follows: $\hat{F}_B = E\nabla{w}log\hat{p}_w()\nabla{w}log\hat{p}_w()^T$
+  - $\overrightarrow{f}_B=Diag(F_B)$
 ## Transformer, In-context Learning
 - [What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning](https://arxiv.org/abs/2305.09731), Task recognition (TR) captures the extent to which LLMs can recognize a task through demonstrations -- even without ground-truth labels -- and apply their pre-trained priors, whereas task learning (TL) is the ability to capture new input-label mappings unseen in pre-training.
 - [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654), We propose two hypotheses. First, Transformers solve compositional tasks by reducing multi-step compositional reasoning into linearized path matching. Second, due to error propagation, Transformers may have inherent limitations on solving high-complexity compositional tasks that exhibit novel patterns. 🚀
