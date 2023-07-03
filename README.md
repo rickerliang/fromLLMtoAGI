@@ -102,3 +102,5 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
 - [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
 - [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+## Datasets
+- [🤗🤗🤗](https://huggingface.co/datasets)
