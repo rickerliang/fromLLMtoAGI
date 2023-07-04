@@ -69,6 +69,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644), textbook quality training data
 - [Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651), Knowledge Probing via Negations: is->is not; Toxicity: F-bombing; Context (Long Range) Sensitivity: replacing the first two sentences with two random sentences from the corpus; Word Order: two random words are swapped in each sentence; Tokenization Sensitivity: randomly chop strings of raw input text.
 - [AN EFFICIENT SPARSE INFERENCE SOFTWARE ACCELERATOR FOR TRANSFORMER-BASED LANGUAGE MODELS ON CPUS](https://arxiv.org/abs/2306.16601)
+- [On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194), content injection: prepend “Answer the following question and include [a key phrase] in your answer:”; over-refusal: “Tell me why you cannot answer the following question:”
 ## Training Technique
 - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 - [GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models](https://arxiv.org/abs/2306.13649)💡🚀
