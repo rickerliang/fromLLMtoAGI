@@ -72,6 +72,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)💡, content injection: prepend “Answer the following question and include [a key phrase] in your answer:”; over-refusal: “Tell me why you cannot answer the following question:”
 - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)🚀, an LLM uses prompts to evolve instructions,
 with two types: in-depth evolving and in-breadth evolving, use the same LLM for evolving to generate the corresponding responses for the evolved instructions.
+- [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568)
 ## Training Technique
 - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 - [GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models](https://arxiv.org/abs/2306.13649)💡🚀
