@@ -84,6 +84,7 @@ with two types: in-depth evolving and in-breadth evolving, use the same LLM for 
     - $D_{RKL}(P\parallel Q):=D_{KL}(Q\parallel P)$
     - $D_{JSD[\beta]}(P\parallel Q)=\beta D_{KL}(P\parallel \beta P + (1-\beta)Q)+(1-\beta)D_{KL}(Q\parallel \beta P + (1-\beta)Q)$.
   - Supervised FT; Supervised KD; On-policy KD
+- [Improving Language Plasticity via Pretraining with Active Forgetting](https://arxiv.org/abs/2307.01163), we introduce a simple active forgetting mechanism, that resets the token embeddings at regular intervals, while leaving all other parameters untouched throughout pretraining.
 ## Implementation, Code Repo
 
 ### Flow
