@@ -107,6 +107,7 @@ with two types: in-depth evolving and in-breadth evolving, use the same LLM for 
 - [WizardLM](https://github.com/nlpxucan/WizardLM)
 - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
 - [中文法律大模型](https://github.com/PKU-YuanGroup/ChatLaw)
+- [CodeGen](https://github.com/salesforce/CodeGen)
 #### LLMs-In-China
 - [中国大模型列表](https://github.com/wgwang/LLMs-In-China)
 ## Prompt Engineer, Guide
