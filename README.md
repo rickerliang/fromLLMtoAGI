@@ -46,7 +46,7 @@ set of premises (an example in orange) to be easily extracted, natural Program-b
 - [Demystifying GPT Self-Repair for Code Generation](https://arxiv.org/abs//2306.09896),
 - [Language models are weak learners](https://arxiv.org/abs/2306.14101)💡, summaries of a collection of examples(hypothesis, prompt) + LLM = weak model(s), hierarchical agglomerative clustering, AdaBoost.
 - [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/abs/2306.14892)🚀🚀🚀
-- [LARGE LANGUAGE MODELS ARE EFFECTIVE TEXT RANKERS WITH PAIRWISE RANKING PROMPTING](https://arxiv.org/abs/2306.17563)
+- [Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting](https://arxiv.org/abs/2306.17563)
 - [Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)💡, Dissociative Identity Disorder🤣👍
 ## AGI, Application
 - [Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory](https://github.com/OpenGVLab/GITM)🚀
